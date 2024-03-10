@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on new exciting frontend development 
 - 📫 How to reach me parekhkhushi013@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I like boxing and extroverted 
 
 <!---
